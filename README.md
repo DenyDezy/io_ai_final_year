@@ -1,4 +1,4 @@
-# tensorflow_lite
+# AI IOT BASED RICE REAF DISEASE DETECTION.
 
 A new Flutter project.
 
