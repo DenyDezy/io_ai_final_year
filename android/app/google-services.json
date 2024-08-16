@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420162653985",
+    "project_id": "tensorflowlite-c3e51",
+    "storage_bucket": "tensorflowlite-c3e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420162653985:android:a4b01f28b5fb63800d3860",
+        "android_client_info": {
+          "package_name": "com.example.tensorflow_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnJ556BF6cbcnSRDOQ4RTqnt7T4o7g5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
